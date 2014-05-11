@@ -1,0 +1,7 @@
+{
+	"name": "cebe/UpperCasePackage",
+	"description": "UpperCasePackage",
+	"keywords": ["test"],
+	"type": "yii2-extension",
+	"license": "BSD-3-Clause"
+}
